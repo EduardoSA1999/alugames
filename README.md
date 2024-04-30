@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2> 📖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura. Projeto simples de indicar se um jogo está alugado ou não.</p>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura. E indica se um jogo está alugado ou não.</p>
 
 ## 🚀 Tecnologias
 <div>
